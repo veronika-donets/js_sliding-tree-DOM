@@ -11,16 +11,7 @@ h1 {
 body {
   background: #eee; }
 
-p {
-  margin: 0;
-  padding: 0;
-  display: inline; }
-
-p:hover {
-  font-weight: bold;
-  display: inline-block;
-  max-width: -webkit-max-content;
-  max-width: -moz-max-content;
-  max-width: max-content; }
+span:hover {
+  font-weight: bold; }
 
 /*# sourceMappingURL=main.css.map */
